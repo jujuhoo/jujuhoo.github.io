@@ -1,0 +1,67 @@
+% !Mode:: "TeX:UTF-8"
+\documentclass[UTF8,16pt]{article} %文档声明  article，report,book
+
+%导言区
+\usepackage[space]{ctex} %引入宏包
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{lineno,hyperref,amsmath}
+\usepackage[a4paper,left=35mm,right=35mm,top=45mm,bottom=15mm]{geometry}
+
+%opening
+\title{《\heiti{算法设计与分析}》\heiti{第{\color{red}1}次作业}}
+\author{\kaishu{姓名：}\underline{XXX} \quad\quad\quad\quad\quad  \kaishu{学号：}\underline{XXXXXXXX}}
+\date{}
+
+\begin{document}
+	
+\maketitle
+\vbox{} %空行
+
+\section*{\textbf{算法分析题}}
+\noindent{\heiti{题目1}}：假设$f(n)$和$g(n)$都是渐进非负函数。利用$\Theta$记号的基本定义来证明$max(f(n),g(n)) = \Theta(f(n) + g(n))$。\\
+{\heiti{答：}}\\
+\rule[0pt]{14.3cm}{0.05em}
+\newline
+%答案填写在这里
+
+\noindent
+\vbox{} %空行
+\noindent{\heiti{题目2}}：求下列函数的渐进表达式：\\
+(1) $3n^2+10n$ \quad\quad\  (2) $\frac{n^2}{10}+2^n$ \quad\quad\ (3) $10log3^n$  \quad\quad\ (4) $logn^3$\\
+{\heiti{答：}}
+\newline
+%答案填写在这里
+
+\noindent
+\rule[0pt]{14.3cm}{0.05em}
+
+\vbox{} %空行
+\noindent{\heiti{题目3}}：对于下列各组函数$f(n)$和$g(n)$, 确定$f(n)=O(g(n))$或$f(n)=\Omega(g(n))$或$f(n)=\Theta(g(n))$, 并简述理由。\\
+(1) $f(n)=logn^2;\quad\quad\quad\quad g(n)=logn+5$\\
+(2) $f(n)=nlogn+n;\quad\quad\ g(n)=logn$\\
+(3) $f(n)=logn^2;\quad\quad\quad\quad\ g(n)=\sqrt{n}$\\
+(4) $f(n)=2^n;\quad\quad\quad\quad\quad\ g(n)=100n^2$\\
+{\heiti{答：}}
+\newline
+%答案填写在这里
+
+\noindent
+\rule[0pt]{14.3cm}{0.05em}
+
+
+%\vbox{} %空行
+%\vbox{} %空行
+%\section*{\textbf{算法实现题}}
+%\noindent{\heiti{题目1}}：正整数 $x$ 的约数是能整除 $x$ 的正整数，其约数的个数记为$div(x)$，例如$div(10)=4$ 输入两个正整数 $a$ 和 $b$($a$小于等于 $b$)，找出 $a$ 与 $b$ 之间约数个数最多的数 $x$。\\
+%{\heiti{算法思路：}}\\
+%{\heiti{结果截图：}}\\
+%\rule[0pt]{14.3cm}{0.05em}
+%
+%\vbox{} %空行
+%\noindent{\heiti{题目2}}：一本书的页码从自然数 1 开始顺序编码直到自然数 $n$。书的页码按照通常的习惯编排，每个页码都不含多余的前导数字 0。例如，第 6 页用数字 6 表示，而不是 06 或者 006 等。数字计数问题要求对给定书的总页码 $n$，计算出书的全部页码中分别用到多少次数字 0,1,2,3,…,9。\\
+%{\heiti{算法思路：}}\\
+%{\heiti{结果截图：}}\\
+
+\end{document}

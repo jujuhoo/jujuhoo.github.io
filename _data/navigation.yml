@@ -1,0 +1,19 @@
+# main links links
+main:
+  - title: "发表论文"
+    url: /publications/  
+
+  - title: "科研项目"
+    url: /fundings/    
+    
+  - title: "指导学生"
+    url: /students/
+
+  - title: "获奖信息"
+    url: /awards/
+
+  - title: "课程信息"
+    url: /teaching/
+
+  - title: "English"
+    url: /english/ 

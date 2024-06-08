@@ -1,0 +1,84 @@
+% !Mode:: "TeX:UTF-8"
+\documentclass[UTF8,16pt]{article} %文档声明  article，report,book
+
+%导言区
+\usepackage[space]{ctex} %引入宏包
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{lineno,hyperref,amsmath}
+\usepackage[a4paper,left=35mm,right=35mm,top=45mm,bottom=15mm]{geometry}
+
+%opening
+\title{《\heiti{算法设计与分析}》\heiti{第{\color{red}3}次作业}}
+\author{\kaishu{姓名：}\underline{XXX} \quad\quad\quad\quad\quad  \kaishu{学号：}\underline{XXXXXXXX}}
+\date{}
+
+\begin{document}
+	
+\maketitle
+\vbox{} %空行
+
+
+\noindent{\heiti{题目1}}：某公司生产长钢管，然后将钢条切割成不同的长度拿去售卖。不同长度的钢管售价不一样。钢管的长度售价表如下：
+% Please add the following required packages to your document preamble:
+% \usepackage{graphicx}
+\begin{table}[htb]
+	\resizebox{\textwidth}{!}{%
+		\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+			\hline
+			长度i(米)        & 1 & 2 & 3 & 4 & 5  & 6  & 7  & 8  & 9  & 10 \\ \hline
+			售价$P_{i}$ & 1 & 5 & 8 & 9 & 10 & 17 & 17 & 20 & 24 & 30 \\ \hline
+		\end{tabular}%
+	}
+	\caption{钢管售价表}
+	\label{tab:my-table}
+\end{table}
+
+\noindent
+有一根长度为$n$的钢管，请设计一个动态规划算法进行切割，让公司的收益达到最大。注：若长度为n英寸的钢条的价格$P_{n}$足够大，最优解可能就是完全不需要切割。\\
+\textbf{注意：}请给出算法思路、递推方程及其解释，并且分别运用自顶向下方法和自底向上的方法给出伪代码。\\
+{\heiti{答：}}\\
+\rule[0pt]{14.3cm}{0.05em}
+
+
+
+\vbox{} %空行
+\noindent{\heiti{题目2}}：买卖股票的最佳时机简单版：给定一个数组，它的第 i 个元素是一支给定股票第 i 天的价格。如果你最多只允许完成一笔交易（即买入和卖出一支股票一次），设计一个算法来计算你所能获取的最大利润。注意：你不能在买入股票前卖出股票。示例如下：\\
+输入: [7,1,5,3,6,4] \\
+输出: 5 \\
+解释: 在第 2 天（股票价格 = 1）的时候买入，在第 5 天（股票价格 = 6）的时候卖出，最大利润 = 6-1 = 5 。注意利润不能是 7-1 = 6, 因为卖出价格需要大于买入价格。请设计一个时间复杂度为$O(n)$的算法。\\
+\textbf{注意：}若使用动态规划，请给出算法思路、递推方程及其解释，并用伪代码描述算法；若不是使用动态规划，请给出算法思路、并用伪代码描述算法。\\
+{\heiti{答：}}\\
+\rule[0pt]{14.3cm}{0.05em}
+
+
+\vbox{} %空行
+\noindent{\heiti{题目3}}: $n$个作业${1,2,...n}$要在又2台机器$M_1$和$M_2$组成的流水线上完成加工。每个作业加工的顺序都是先在$M_1$上加工，然后在$M_2$上加工。$M_1$和$M_2$加工作业$i$所需的时间分别为$a_i$和$b_i$，$1\leq  i\leq n$。流水作业调度问题要求确定这$n$个作业的最优加工顺序，使得从第一个作业在机器$M_1$上开始加工，到最后一个作业在机器$M_2$上加工完成所需的时间最少。
+
+直观上，一个最优调度应使机器$M_1$没有空闲时间，且机器$M_2$的空闲时间最少。在一般情况下，机器$M_2$上会有机器空闲和作业积压两种情况。
+
+设全部作业的集合$N={1,2,..,n}, S\subseteq N$是$N$的作业子集。在一般情况下，机器$M_1$开始加工$S$中作业时，机器$M_2$还在加工其他作业，要等时间$t$后才可利用。将这种情况下完成$S$中作业所需的最短时间记为$T(S,t)$。流水作业调度问题的最优值为$T(N,0)$.\\
+\textbf{注意：}
+请认真阅读自学课本3.9节流水作业调度，完成以下任务：\\
+(1)给出课本中两种不同动态规划算法思路（递归式+基于Johnson原则）的伪代码（注意是伪代码，不是课本上的实现代码）\\
+(2)复现这两种思路，给出程序运行截图（要有输入，输出以及运行时间）\\
+(3)枚举n，记录运行时间并画出n与运行时间的关系图\\
+
+
+{\heiti{答：}}\\
+\rule[0pt]{14.3cm}{0.05em}
+
+
+\vbox{} %空行
+\vbox{} %空行
+
+%\begin{figure}[bh]
+%	\includegraphics[width=1.0\textwidth]{time.jpg}
+%	\caption{画出$n$与运行时间的关系图(示例)}
+%\end{figure}
+
+
+
+
+\end{document}

@@ -1,0 +1,41 @@
+% !Mode:: "TeX:UTF-8"
+\documentclass[UTF8,16pt]{article} %文档声明  article，report,book
+
+%导言区
+\usepackage[space]{ctex} %引入宏包  
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{lineno,hyperref,amsmath}
+\usepackage[a4paper,left=35mm,right=35mm,top=45mm,bottom=15mm]{geometry} 
+
+%opening
+\title{《\heiti{算法设计与分析}》\heiti{第{\color{red}5}次作业}}
+\author{\kaishu{姓名：}\underline{XXX} \quad\quad\quad\quad\quad  \kaishu{学号：}\underline{XXXXXXXX}}
+\date{}
+
+\begin{document}
+	
+\maketitle
+\vbox{} %空行
+
+\section*{\textbf{算法分析题}}
+\noindent{\heiti{题目1}}：请论述回溯法和分支限界法的相同点与不同点。\\
+{\heiti{答：}}\\
+\rule[0pt]{14.3cm}{0.05em}
+
+\vbox{} %空行
+\noindent{\heiti{题目2}}：设某一机器由$n$个部件组成，每一种部件都可以从$m$个不同的供应商处购得，设$W_{ij}$ 是从供应商$j$ 处购得的部件$i$ 的重量，$C_{ij}$ 是相应的价格，试设计一个回溯法，给出总价格不超过$d$ 的最小重量机器设计。请描述算法的基本思想，要求画出解空间树，并给出相应的剪枝条件。试通过下面这个例子进行说明。
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[scale=0.45]{example.png}
+\end{figure}\\
+{\heiti{答：}}\\
+\rule[0pt]{14.3cm}{0.05em}
+
+\vbox{} %空行
+\noindent{\heiti{题目3}}：假设有 $n$ 个任务由 $k$ 个可并行工作的机器完成，完成任务$i$需要的时间为$T_{i}$，请使用分支限界法找出完成这 $n$ 个任务的最佳调度，使得完成全部任务的时间最早。请描述算法思想，以$n=7$，$k=3$，$t[1..7]= [2,14, 4,16, 6,5,3]$为例，要求画出解空间树，并给出相应的剪枝条件。\\
+{\heiti{答：}}\\
+\vbox{} %空行
+
+\end{document}

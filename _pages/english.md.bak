@@ -1,0 +1,108 @@
+---
+layout: single
+title: "English Version"
+permalink: /english/
+author_profile: true
+---
+
+## BIOGRAPHY
+
+Dr. Jiahui Jin is an associate professor in School of Computer Science and Engineering at Southeast University, China. He received the Ph.D. degree from Southeast University in 2015, supervised by Professor Junzhou Luo. During his Ph.D. study from Aug. 2012 to Aug. 2014, he had spent two years working in Multimedia Networking & Internet Lab (MNIL) at University of Massachusetts Amherst as a visiting Ph.D. student with Professor Lixin Gao (IEEE Fellow, ACM Fellow).
+
+I am looking for highly motivated and self-driven master students, who are interested in developing distributed systems for query processing, data mining, and machine learning.
+
+## RESEARCH INTERESTS
+
+- **Big Data**. Distributed Data Processing, Crowd Sourcing
+- **Cloud Computing**. Virtual Machine, Data Center Networking
+- **Knowledge Graph**. Querying, Subgraph Matching
+
+## PUBLICATION
+
+Conference Paper
+------
+
+- Yuxiang Wang, Arijit Khan, Tianxing Wu, **Jiahui Jin**, Haijiang Yan.<br />
+<span style="color: blue"> Semantic Guided and Response Times Bounded Top-k Similarity Search over Knowledge Graphs, </span> in Proceedings of 36th IEEE International Conference on Data Engineering (ICDE), 2020. <span style="color: red">(CCF Rank A)</span>
+
+- Kexi Kang, Jinghui Zhang,  **Jiahui Jin**, Dian Shen, Junzhou Luo, Wenxin Li, Zhiang Wu.<br />
+<span style="color: blue"> MBECN: Enabling ECN with Micro-burst Traffic in Multi-queue Data Center, </span> in Proceedings of 2019 IEEE International Conference on Cluster Computing (CLUSTER), 2019. <span style="color: red">(CCF Rank B)</span>
+
+- Kexi Kang, Jinghui Zhang,  **Jiahui Jin**, Dian Shen, Runqun Xiong, Junzhou Luo.<br /> 
+<span style="color: blue"> QAECN: Dynamically Tuning ECN Threshold with Micro-burst in Multi-queue Data Centers, </span> in Proceedings of 23rd IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2019. <span style="color: red">(CCF Rank C)</span>
+
+- Yunhao Li, **Jiahui Jin**, Runqun Xiong, Junzhou Luo.<br />
+<span style="color: blue">A Distributed Approach for Constructing Generalized Suffix Tree on Spark by Using Optimized Elastic Range Algorithm. </span> in Proceedings of Fifth International Conference on Advanced Cloud and Big Data (CBD), 2017. 
+
+- Yunhao Li, Junzhou Luo, **Jiahui Jin**, Runqun Xiong, Fang Dong.<br />
+<span style="color: blue">An Effective Model for Edge-Side Collaborative Storage in Data-Intensive Edge Computing.</span>  in Proceedings of 23rd IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2019. <span style="color: red">(CCF Rank C)</span>
+
+
+- Yao Du, Runqun Xiong, **Jiahui Jin**, Junzhou Luo.<br />
+<span style="color: blue">A Cost-Efficient Data Placement Algorithm with High Reliability in Hadoop. </span>in Proceedings of Fifth International Conference on Advanced Cloud and Big Data (CBD), 2017.
+
+- Jiyuan Shi, Fang Dong, Jinghui Zhang, **Jiahui Jin**, Junzhou Luo.<br />
+<span style="color: blue">Resource Provisioning Optimization for Service Hosting on Cloud Platform. </span>in Proceedings of 20th IEEE International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2016. <span style="color: red">(CCF Rank C)</span>
+
+- **Jiahui Jin**, Samamon Khemmarat, Lixin Gao, Junzhou Luo.<br />
+<span style="color: blue">Querying Web-Scale Information Networks Through Bounding Matching Scores,</span> in Proceedings of the 24th International Conference on World Wide Web (WWW), 2015. <span style="color: red">(CCF Rank A, acceptance rate of 14.1%) </span>
+
+- Junxue Zhang, Fang Dong, Dian Shen, **Jiahui Jin**, Junzhou Luo.<br />
+<span style="color: blue">Superblock: An Application-Aware Dynamic Partition Strategy for Large-Scale Graph.</span> in Proceedings of Fourth International Conference on Advanced Cloud and Big Data (CBD), 2015.
+
+- **Jiahui Jin**, Samamon Khemmarat, Lixin Gao, Junzhou Luo.<br />
+<span style="color: blue">A Distributed Approach for Top-k Star Queries on Massive Information Networks,</span> in Proceedingss of 20th IEEE International Conference on Parallel and Distributed Systems （ICPADS), 2014. <span style="color: red">(CCF Rank C, Best Paper Candidate 4 out of 322) </span>
+
+- Yuxiang Wang, Junzhou Luo, Aibo Song, **Jiahui Jin**, Fang Dong.<br />
+<span style="color: blue">Improving Online Aggregation Performance for Skewed Data Distribution.</span> in Proceedings of the 17th international conference on Database Systems for Advanced Applications (DASFAA), 2012. <span style="color: red">(CCF Rank B)</span>
+
+- Fang Dong, Junzhou Luo, **Jiahui Jin**, Yanhao Wang, Yanmin Zhu.<br />
+<span style="color: blue">Performance evaluation and analysis of SEU Cloud Computing Platform - Using general benchmarks and real world AMS application,</span> in Proceedings of 2012 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2012.
+
+- **Jiahui Jin**, Junzhou Luo, Aibo Song, Fang Dong, Runqun Xiong.<br />
+<span style="color: blue">An Efficient Data Locality Driven Task Scheduling Algorithm for Cloud Computing.</span> in Proceedings of 11th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid), 2011. <span style="color: red">(CCF Rank C)</span> 
+
+- Fang Dong, Junzhou Luo, Aibo Song, **Jiahui Jin**.<br />
+<span style="color: blue">Resource Load Based Stochastic DAGs Scheduling Mechanism for Grid Environment,</span> in Proceedings of IEEE 12th International Conference on High Performance Computing and Communications (HPCC), 2010.<span style="color: red"> (CCF Rank C)</span>
+
+Journal Paper
+------
+
+- **Jiahui Jin**, Junzhou Luo, Mingyang Du, Yongcheng Dang, Feng Li, Jinghui Zhang, Aibo Song.<br />
+<span style="color: blue">A data-locality-aware task scheduler for distributed social graph queries. </span> Future Generation Comp. Syst. (FGCS), 2019. <span style="color: red">(CCF Rank C, JCR 1)</span>
+
+- **Jiahui Jin**, Junzhou Luo, Samamon Khemmarat, Fang Dong, Lixin Gao.<br />
+<span style="color: blue">GStar: an efficient framework for answering top-k star queries on billion-node knowledge graphs. </span>World Wide Web （WWWJ）, 2019. <span style="color: red"> (CCF Rank B)</span>
+
+- Dian Shen, Luo Junzhou, Fang Dong, **Jiahui Jin**, Junxue Zhang, Jun Shen<br />
+<span style="color: blue">Facilitating Application-aware Bandwidth Allocation in the Cloud with One-step-ahead Traffic Information. </span>IEEE Transactions on Services Computing （TSC）, 2019. <span style="color: red"> (CCF Rank B, Early Access Article)</span>
+
+- Feng Shan, Junzhou Luo, **Jiahui Jin**, Weiwei Wu.<br />
+<span style="color: blue">Offloading Delay Constrained Transparent Computing Tasks With Energy-Efficient Transmission Power Scheduling in Wireless IoT Environment. </span> IEEE Internet of Things Journal, 2019. <span style="color: red">(JCR 1)</span>
+
+- Jinghui Zhang, Jian Chen, Jun Zhan, **Jiahui Jin**, Aibo Song.<br />
+<span style="color: blue">Graph partition-based data and task co-scheduling of scientific workflow in geo-distributed datacenters.</span> Concurrency and Computation: Practice and Experience (CCPE), 2019. <span style="color: red">(CCF Rank C)</span>
+
+- **Jiahui Jin**, Yunhao Li, Junzhou Luo.<br />
+<span style="color: blue">  Cooperative storage by exploiting graph-based data placement algorithm for edge computing environment.</span> Concurrency and Computation: Practice and Experience (CCPE), 2018. <span style="color: red">(CCF Rank C)</span>
+
+- Jiyuan Shi, Junzhou Luo, Fang Dong, **Jiahui Jin**, Jun Shen.<br />
+<span style="color: blue">Fast multi-resource allocation with patterns in large scale cloud data center.</span> J. Comput. Science, 2018.
+
+- **Jiahui Jin**, Junzhou Luo, Samamon Khemmarat, Lixin Gao.<br />
+<span style="color: blue">Querying Web-Scale Knowledge Graphs Through Effective Pruning of Search Space,</span> IEEE Transactions on Parallel and Distributed Systems (TPDS), 2017. <span style="color: red">(CCF Rank A) </span>
+
+- Junzhou Luo, **Jiahui Jin**, Feng Shan.<br />
+<span style="color: blue">Standardization of Low-Latency TCP with Explicit Congestion Notification: A Survey. </span> IEEE Internet Computing (IC), 2017.
+
+- Fang Dong, Junzhou Luo, Jiahui Jin, Jiyuan Shi, Ye Yang, Jun Shen<br />
+<span style="color: blue">Accelerating skycube computation with partial and parallel processing for service selection. </span>IEEE Transactions on Services Computing （TSC）, 2017 <span style="color: red"> (CCF Rank B, Early Access Article)</span>
+
+- Fang Dong, Junxue Zhang, Junzhou Luo, Dian Shen, **Jiahui Jin**.<br />
+<span style="color: blue">Enabling application-aware flexible graph partition mechanism for parallel graph processing systems.</span> Concurrency and Computation: Practice and Experience (CCPE), 2017. <span style="color: red">(CCF Rank C)</span>
+
+- Bo Liu, Junzhou Luo, Feng Shan, Wei Li, **Jiahui Jin**, Xiaojun Shen.<br />
+<span style="color: blue">On Finding Maximum Disjoint Paths for Many-to-One Routing in Wireless Multi-Hop Network. </span>IEICE Transactions on Information and Systems, 2014.
+
+
+Update：{{ site.time | date_to_string }}

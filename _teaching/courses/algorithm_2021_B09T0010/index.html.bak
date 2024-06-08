@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<!-- saved from url=(0062)http://cloud.seu.edu.cn/jhjin/course/algorithm_2019/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>  B09T0010 算法设计与分析（2021）</title>
+  
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="()">
+<link rel="stylesheet" href="./index_files/font-awesome.min.css">
+<style type="text/css">
+
+</style>
+</head><body style="font-family: Helvetica , Tahoma , Arial , STXihei , &quot;华文细黑&quot; , &quot;Microsoft YaHei&quot; , &quot;微软雅黑&quot; , Heiti , &quot;黑体&quot; , SimSun , &quot;宋体&quot; , sans-serif; font-size: 1.15em; font-weight: 100; color: #2f2f2f;">
+<div><div class="preview" id="wmd-preview">
+<style>
+a:focus {
+	outline:	thin dotted #333;
+	outline:	5px auto -webkit-focus-ring-color;
+	outline-offset:	-2px;
+}
+a:hover {
+	outline:	0;
+}
+a:active {
+	outline:	0;
+}
+a:hover {
+	color:	#005580 !important;
+	text-decoration:	underline !important;
+}
+blockquote   small:before {
+	content:	'\2014 \00A0';
+}
+q:before {
+	content:	"";
+}
+q:after {
+	content:	"";
+}
+blockquote:before {
+	content:	"";
+}
+blockquote:after {
+	content:	"";
+}
+.hljs-folder:before {
+	top:	0;
+	content:	'';
+	width:	14px;
+	height:	12px;
+	margin-top:	0px;
+	margin-right:	3px;
+	position:	relative;
+	display:	inline-block;
+	background-size:	14px;
+	background-repeat:	no-repeat;
+}
+.hljs-file:before {
+	top:	0;
+	content:	'';
+	width:	14px;
+	height:	12px;
+	margin-top:	0px;
+	margin-right:	3px;
+	position:	relative;
+	display:	inline-block;
+	background-size:	14px;
+	background-repeat:	no-repeat;
+}
+.hljs-hiddenfile:before {
+	top:	0;
+	content:	'';
+	width:	14px;
+	height:	12px;
+	margin-top:	0px;
+	margin-right:	3px;
+	position:	relative;
+	display:	inline-block;
+	background-size:	14px;
+	background-repeat:	no-repeat;
+}
+.hljs-file:before {
+	height:	14px;
+	margin-left:	1px;
+}
+.hljs-hiddenfile:before {
+	height:	14px;
+	margin-left:	1px;
+}
+.hljs-file.photo:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f1c5";
+}
+.hljs-file.plain:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f016";
+}
+.hljs-file.source:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f1c9";
+}
+.hljs-file.archive:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f1c6";
+}
+.hljs-file.audio:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f1c7";
+}
+.hljs-file.video:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f1c8";
+}
+.hljs-file.pdf:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f1c1";
+}
+.hljs-file.xls:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f1c3";
+}
+.hljs-file.doc:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f1c2";
+}
+.hljs-file.ppt:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f1c4";
+}
+.hljs-folder:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f114";
+}
+.hljs-hiddenfile:before {
+	font:	normal normal normal 14px / 1 FontAwesome;
+	content:	"\f016";
+}
+.li_linenum:before {
+	content:	counter(lines , decimal);
+	position:	absolute;
+	left:	0px;
+	text-align:	center;
+	width:	2.5em;
+	opacity:	0.5;
+	vertical-align:	top;
+}
+
+</style>
+	<div class="preview" style="margin-top: 0; margin-right: auto; margin-bottom: 0; margin-left: auto; width: 1200px;"><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; border: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><svg><defs id="MathJax_SVG_glyphs"></defs></svg></div><h1 id="e7ae97e6b395e58886e69e90e4b88ee8aebee8aea1" style="margin-top: 0.5em; margin-top: 1.0em; margin-right: 0; margin-right: 0; margin-bottom: 0.5em; margin-bottom: .6em; margin-left: 0; margin-left: 0; font-family: inherit; font-weight: 500; line-height: 1.6; color: inherit; text-rendering: optimizelegibility; font-size: 38.5px;">算法分析与设计  by 金嘉晖 </h1>
+<hr style="margin-top: 20px; margin-right: 0; margin-bottom: 20px; margin-left: 0; border: 0; border-top: 1px solid #eeeeee; border-bottom: 1px solid #ffffff;">
+<h2 id="e8afbee4bbb6" style="margin-top: 0.5em; margin-top: 1.0em; margin-right: 0; margin-right: 0; margin-bottom: 0.5em; margin-bottom: .6em; margin-left: 0; margin-left: 0; font-family: inherit; font-weight: 500; line-height: 40px; color: inherit; text-rendering: optimizelegibility; font-size: 31.5px;">课件</h2>
+<ul style="padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 35px;">
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第一章 算法的基本概念 <a href="https://pan.seu.edu.cn:443/link/45003E5CB8320F63D19C2D629D3B56ED" target="_blank" style="color: #0088cc; text-decoration: none;">(3月3日)</a> <a href="https://pan.seu.edu.cn:443/#/link/CA7D1B49518EF6FC67054196C4A949E3" target="_blank" style="color: #0088cc; text-decoration: none;">(3月5日)</a><a href="https://pan.seu.edu.cn:443/#/link/72B58A06E7B1E56642AE7CC3896AFAA5" target="_blank" style="color: #0088cc; text-decoration: none;">(3月10日)</a></p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第二章 递归与分治 <a href="https://pan.seu.edu.cn:443/#/link/CB419F73399364C82F6C0732A47D958E" target="_blank" style="color: #0088cc; text-decoration: none;">(3月10日)</a><a href="https://pan.seu.edu.cn:443/#/link/8062B2E7084DCC91842958CFA2B8A8F9" target="_blank" style="color: #0088cc; text-decoration: none;">(3月12日)</a><a href="https://pan.seu.edu.cn:443/#/link/72EDA63212821DC1619661288F95C22F" target="_blank" style="color: #0088cc; text-decoration: none;">(3月17日)</a><a href="https://pan.seu.edu.cn:443/#/link/28D46E10668AEFE12ACAFF85DA406BFB" target="_blank" style="color: #0088cc; text-decoration: none;">(3月19日)</a></p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第三章 动态规划 <a href="https://pan.seu.edu.cn:443/#/link/E4C4B91C6CD7839746E9BF0722A3E711" target="_blank" style="color: #0088cc; text-decoration: none;">(3月19日)</a><a href="https://pan.seu.edu.cn:443/#/link/6F2361A195435D3215200124AD98BEEF" target="_blank" style="color: #0088cc; text-decoration: none;">(3月24日)</a><a href="https://pan.seu.edu.cn:443/#/link/EA9EFA2A17612BC73D0F8C91AA4C6B80" target="_blank" style="color: #0088cc; text-decoration: none;">(3月31日)</a><a href="https://pan.seu.edu.cn:443/#/link/4C94CE8AB8AF9753EDADCBF47BF9EFD9" target="_blank" style="color: #0088cc; text-decoration: none;">(3月31日)</a><a href="https://pan.seu.edu.cn:443/#/link/F0751FB9C5C15FA275D747681904DD0C" target="_blank" style="color: #0088cc; text-decoration: none;">(4月2日)</a></p></li>
+
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第四章 贪心法 <a href="https://pan.seu.edu.cn:443/#/link/A9F790A5679F072C4188D011E2735C72" target="_blank" style="color: #0088cc; text-decoration: none;">(4月2日)</a>
+<a href="https://pan.seu.edu.cn:443/#/link/1C989726DB8B41FDB0668F87FBB7911A" target="_blank" style="color: #0088cc; text-decoration: none;">(4月7日)</a><a href="https://pan.seu.edu.cn:443/#/link/2A8F0D30D29DC7CA76608AEFC8286347" target="_blank" style="color: #0088cc; text-decoration: none;">(4月9日)</a>
+</p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第五章 回溯法 <a href="https://pan.seu.edu.cn:443/#/link/698086F2500C73681C3CC8D85CA81D8C" target="_blank" style="color: #0088cc; text-decoration: none;">(4月9日)</a> <a href="https://pan.seu.edu.cn:443/#/link/DB8024D0577C23E5B5E4C8DBE69B359B" target="_blank" style="color: #0088cc; text-decoration: none;">(4月14日)</a>
+</p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第六章 分支限界法 <a href="https://pan.seu.edu.cn:443/#/link/9528FBF9E803634A60BEF19ACC80193F" target="_blank" style="color: #0088cc; text-decoration: none;">(4月21日)</a> 
+</p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第七章 概率算法 <a href="https://pan.seu.edu.cn:443/#/link/ADF5050B69A2F8A2645F974B186D5AF2" target="_blank" style="color: #0088cc; text-decoration: none;">(4月21日)</a> 
+<a href="https://pan.seu.edu.cn:443/#/link/70433350DA1C416DB08587C63A8AF21C" target="_blank" style="color: #0088cc; text-decoration: none;">(4月23日)</a> 
+</p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第八章 网络流和其他 <a href="https://pan.seu.edu.cn:443/#/link/D9D962E495B6021B554316B6F5436C8D" target="_blank" style="color: #0088cc; text-decoration: none;">(4月23日)</a> 
+</p></li>
+</ul>
+<h2 id="e4bd9ce4b89a" style="margin-top: 0.5em; margin-top: 1.0em; margin-right: 0; margin-right: 0; margin-bottom: 0.5em; margin-bottom: .6em; margin-left: 0; margin-left: 0; font-family: inherit; font-weight: 500; line-height: 40px; color: inherit; text-rendering: optimizelegibility; font-size: 31.5px;">作业</h2>
+<ul style="padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 35px;">
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第一次作业<a href="./homework/HW1.pdf" target="_blank" style="color: #0088cc; text-decoration: none;">(作业)</a><a href="./homework/HW1.tex" target="_blank" style="color: #0088cc; text-decoration: none;">(模板)</a><a href="./homework/Answer1.pdf" target="_blank" style="color: #0088cc; text-decoration: none;">(答案)</a></p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第二次作业<a href="./homework/HW2.pdf" target="_blank" style="color: #0088cc; text-decoration: none;">(作业)</a><a href="./homework/HW2.tex" target="_blank" style="color: #0088cc; text-decoration: none;">(模板)</a><a href="./homework/Answer2.pdf" target="_blank" style="color: #0088cc; text-decoration: none;">(答案)</a></p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第三次作业<a href="./homework/HW3.pdf" target="_blank" style="color: #0088cc; text-decoration: none;">(作业)</a><a href="./homework/HW3.tex" target="_blank" style="color: #0088cc; text-decoration: none;">(模板)</a><a href="./homework/Answer3.pdf" target="_blank" style="color: #0088cc; text-decoration: none;">(答案)</a></p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第四次作业<a href="./homework/HW4.pdf" target="_blank" style="color: #0088cc; text-decoration: none;">(作业)</a><a href="./homework/HW4.tex" target="_blank" style="color: #0088cc; text-decoration: none;">(模板)</a></p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">第五次作业<a href="./homework/HW5.pdf" target="_blank" style="color: #0088cc; text-decoration: none;">(作业)</a><a href="./homework/HW5.tex" target="_blank" style="color: #0088cc; text-decoration: none;">(模板)</a></p></li>
+</ul>
+<h2 id="e69599e5ada6e5b7a5e585b7" style="margin-top: 0.5em; margin-top: 1.0em; margin-right: 0; margin-right: 0; margin-bottom: 0.5em; margin-bottom: .6em; margin-left: 0; margin-left: 0; font-family: inherit; font-weight: 500; line-height: 40px; color: inherit; text-rendering: optimizelegibility; font-size: 31.5px;">教学工具</h2>
+<ul style="padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 35px;">
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">CTex套件 <a href="http://www.ctex.org/HomePage" target="_blank" style="color: #0088cc; text-decoration: none;">(官方下载)</a></p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">Texmaker <a href="https://pan.seu.edu.cn:443/#/link/2D6EB01674D55A0C41B0F1D884926C5F" target="_blank" style="color: #0088cc; text-decoration: none;">(Download)</a></p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;">简易教程 <a href="https://liam0205.me/2014/09/08/latex-introduction/" target="_blank" style="color: #0088cc; text-decoration: none;">(链接)</a></p></li>
+</ul>
+<h2 id="e4bd9ce4b89a" style="margin-top: 0.5em; margin-top: 1.0em; margin-right: 0; margin-right: 0; margin-bottom: 0.5em; margin-bottom: .6em; margin-left: 0; margin-left: 0; font-family: inherit; font-weight: 500; line-height: 40px; color: inherit; text-rendering: optimizelegibility; font-size: 31.5px;">参考资料</h2>
+<ul style="padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 10px; margin-left: 35px;">
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;"><a href="http://www3.cs.stonybrook.edu/~algorith/" target="_blank" style="color: #0088cc; text-decoration: none;">The Stony Brook Algorithm Repository</a></p></li>
+<li><p style="margin-top: 0; margin-right: 0; margin-bottom: 1.1em; margin-left: 0; line-height: 1.6;"><a href="https://github.com/kamyu104/LintCode" target="_blank" style="color: #0088cc; text-decoration: none;">部分算法实现题的出处</a></p></li>
+</ul>
+</div></div></div></body></html>

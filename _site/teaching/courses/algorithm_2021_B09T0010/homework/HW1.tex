@@ -1,0 +1,73 @@
+% !Mode:: "TeX:UTF-8"
+
+\documentclass[UTF8,16pt]{article} %文档声明  article，report,book
+
+%导言区
+\usepackage[space]{ctex} %引入宏包
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{lineno,hyperref,amsmath}
+\usepackage[ruled,vlined]{algorithm2e}
+\usepackage[a4paper,left=35mm,right=35mm,top=45mm,bottom=15mm]{geometry}
+\lstset{language=C++}%这条命令可以让LaTeX排版时将C++键字突出显示
+
+\lstset{breaklines}%这条命令可以让LaTeX自动将长的代码行换行排版
+
+\lstset{extendedchars=false}%这一条命令可以解决代码跨页时，章节标题，页眉等汉字不显示的问题
+
+
+
+
+
+%opening
+\title{《\heiti{算法设计与分析}》\heiti{第{\color{red}1}次作业}}
+\author{\kaishu{姓名：}\underline{XXX} \quad\quad\quad\quad\quad  \kaishu{学号：}\underline{XXXXXXXX}}
+\date{}
+
+\begin{document}
+	
+\maketitle
+\vbox{} %空行
+
+\section*{\textbf{算法分析题}}
+\noindent{\heiti{题目1}}：以下算法的时间复杂度是:
+\begin{algorithm}[htb]
+    \SetAlgoNoLine
+    \caption{Test(n)}
+    \KwIn{上界 $n$}
+    \KwOut{计算结果 $x$}
+   $x\gets 2$\\
+   \While{$x < \lfloor \frac{n}{2} \rfloor$}{$x=2*x$}
+   \Return $x$
+\end{algorithm}
+
+
+\noindent
+{\heiti{答：}}{答案写这里}\\
+\rule[0pt]{14.3cm}{0.05em}
+
+
+\vbox{} %空行
+\noindent{\heiti{题目2}}：证明：$n!=o(n^{n}$)\\
+{\heiti{证明：}}{答案写这里}\\
+\rule[0pt]{14.3cm}{0.05em}
+
+\vbox{} %空行
+\noindent{\heiti{题目3}}：对于下列各组函数$f(n)$和$g(n)$, 确定$f(n)=O(g(n))$或$f(n)=\Omega(g(n))$或$f(n)=\Theta(g(n))$, 并简述理由。\\
+(1) $f(n)=\log n^2;\quad\quad\quad g(n)=\sqrt{n}$\\
+(2) $f(n)=n;\quad\quad\quad\quad\quad g(n)=\log^{2}n$\\
+(3) $f(n)=10;\quad\quad\quad\quad\ g(n)=\log10$\\
+(4) $f(n)=2^n;\quad\quad\quad\quad\ g(n)=3^n$\\
+{\heiti{答：}}{答案写这里}\\
+\rule[0pt]{14.3cm}{0.05em}
+
+
+\vbox{} %空行
+\noindent{\heiti{题目3}}：一本书的页码从自然数1开始顺序编码直到自然数$n$。书的页码按照通常的习惯编排，每个页码都不含多余的前导数字0。例如，第6页用数字6表示，而不是06或者006等。数字计数问题要求对给定书的总页码 $n$，计算出书的全部页码中分别用到多少次数字$0,1,2,3,\cdots,9$。请给出算法思路及伪代码，不需要写出完整代码{\bf（本题重点考查是否能清晰描述解题思路，以及是否会写伪代码）。}\\
+{\heiti{算法思路：}}{答案写这里}\\
+{\heiti{伪代码：}}\\
+{答案写这里，使用latex的算法伪代码包}\\
+
+\end{document}

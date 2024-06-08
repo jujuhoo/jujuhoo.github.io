@@ -1,0 +1,50 @@
+% !Mode:: "TeX:UTF-8"
+\documentclass[UTF8,16pt]{article} %文档声明  article，report,book
+
+%导言区
+\usepackage[space]{ctex} %引入宏包
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{lineno,hyperref,amsmath}
+\usepackage[a4paper,left=35mm,right=35mm,top=45mm,bottom=15mm]{geometry}
+
+%opening
+\title{《\heiti{算法设计与分析}》\heiti{第{\color{red}2}次作业}}
+\author{\kaishu{姓名：}\underline{XXX} \quad\quad\quad\quad\quad  \kaishu{学号：}\underline{XXXXXXXX}}
+\date{}
+
+\begin{document}
+	
+\maketitle
+\vbox{} %空行
+
+
+\noindent{\heiti{题目1}}：求下列递推关系表示的算法复杂度。\\
+(1)$T(n)=9T(\frac{n}{3}) + n$\\
+(2)$T(n)=8T(\frac{n}{6})+n^{\frac{3}{2}}\log n$\\
+(3)$T(n)=7T(\frac{n}{7})+n$\\
+{\heiti{答：}}答案写在这里\\
+\rule[0pt]{14.3cm}{0.05em}
+
+\vbox{} %空行
+\noindent{\heiti{题目2}}：设A[0:n-1]是一个元素个数为n的未排序的数组，运用分治算法找到第 k个最大的元素。请注意，你需要找的是数组排序后的第 k 个最大的元素，而不是第 k 个不同的元素。你需要给出具体的\textbf{算法思路}、\textbf{伪代码}，并设计一个时间复杂度为$O(n)$的算法（可以是平均或最坏情况。若能清晰写出最坏情况复杂度为$O(n)$的算法，有额外分）。\\
+{\heiti{答：}}答案写在这里\\
+\rule[0pt]{14.3cm}{0.05em}
+
+\vbox{} %空行
+\noindent{\heiti{题目3}}：动手设计并实现一个可以进行两个$n$位大整数的乘法运算的算法。你需要给出具体的\textbf{算法思路}、\textbf{伪代码}，并对你设计的算法进行\textbf{复杂度分析}，除此之外，你还需要给出\textbf{算法运行结果截图}，并用你熟悉的图形库\textbf{画出输入规模$n$与运行时间的关系图}。\\
+{\heiti{答：}}答案写在这里\\
+\rule[0pt]{14.3cm}{0.05em}
+
+%\begin{figure}[bh]
+%\includegraphics[width=1.0\textwidth]{time.jpg} %把图片路径放这里
+%%\caption{输入规模$n$与运行时间的关系图(示例)}
+\end{figure}
+
+
+\vbox{} %空行
+\vbox{} %空行
+
+
+\end{document}
