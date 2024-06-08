@@ -8,7 +8,7 @@ author_profile: true
 会议论文
 ------
 
-1. Jinghui Zhang, Zhengjia Xu, Dingyang Lv, Zhan Shi, Dian Shen, **Jiahui Jin**, Jiahui Jin, Fang Dong. <br /><span style="color: blue">DiG-In-GNN: Discriminative Feature Guided GNN-Based Fraud Detector against Inconsistencies in Multi-Relation Fraud Graph,</span> in Proceedings of Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.
+1. Jinghui Zhang, Zhengjia Xu, Dingyang Lv, Zhan Shi, Dian Shen, **Jiahui Jin**, Fang Dong. <br /><span style="color: blue">DiG-In-GNN: Discriminative Feature Guided GNN-Based Fraud Detector against Inconsistencies in Multi-Relation Fraud Graph,</span> in Proceedings of Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.
 2. Jingyi Qiu, Aibo Song, **Jiahui Jin**, Tianbo Zhang, Jingyi Ding, Xiaolin Fang, Jianguo Qian. <br /><span style="color: blue">Dependency-Aware Core Column Discovery for Table Understanding,</span> in Proceedings of 22nd International Semantic Web Conference (ISWC), 2023.
 3. Yuchen Wang, Jinghui Zhang, Zhengjie Huang, Weibin Li, Shikun Feng, Ziheng Ma, Yu Sun, Dianhai Yu, Fang Dong, **Jiahui Jin**, Beilun Wang, Junzhou Luo. <br /><span style="color: blue">Label  Information Enhanced Fraud Detection      against Low Homophily in Graphs,</span> in Proceedings of the ACM Web Conference (WWW), 2023.
 4. Yuxiang Wang, Arijit Khan, Xiaoliang Xu, **Jiahui Jin**, Qifan Hong, Tao Fu. <br /><span style="color: blue">Aggregate  Queries on Knowledge Graphs: Fast Approximation with Semantic-aware Sampling,</span>  in Proceedings of 38th IEEE International Conference on Data Engineering (ICDE), 2022.
@@ -24,11 +24,11 @@ author_profile: true
 期刊论文
 ------
 
-1. **Jiahui Jin,** Zhendong Guo, Wenchao Bai, Biwei Wu, Xiang Liu, Weiwei Wu. <br /><span style="color: blue">Congestion-aware Stackelberg pricing game in urban Internet-of-Things networks: A case study </span>. Computer Networks, 2024.
+1. **Jiahui Jin,** Zhendong Guo, Wenchao Bai, Biwei Wu, Xiang Liu, Weiwei Wu. <br /><span style="color: blue">Congestion-aware Stackelberg pricing game in urban Internet-of-Things networks: A case study</span>. Computer Networks, 2024.
 2. **Jiahui Jin,** Yifan Song, Dong Kan, Binjie Zhang, Yan Lyu, Jinghui Zhang, Hongru Lu. <br /><span style="color: blue">Learning context-aware region similarity with effective spatial normalization over Point-of-Interest data.</span> Information Processing & Management, 2024.
 3. **Jiahui Jin**, Junzhou Luo, Samamon Khemmarat, Fang Dong, Lixin Gao. <br /><span style="color: blue">GStar: an efficient framework for answering top-k star queries on billion-node knowledge graphs.</span> World Wide Web (WWWJ), 2019.
 4. Dian Shen, Luo Junzhou, Fang Dong, **Jiahui Jin**, Junxue Zhang, Jun Shen. <br /><span style="color: blue">Facilitating Application-aware Bandwidth Allocation in the Cloud with One-step-ahead Traffic Information. </span>IEEE Transactions on Services Computing (TSC), 2019.
 5. Feng Shan, Junzhou Luo, **Jiahui Jin**, Weiwei Wu. <br /><span style="color: blue">Offloading Delay Constrained Transparent Computing Tasks With Energy-Efficient Transmission Power Scheduling in Wireless IoT Environment. </span> IEEE Internet of Things Journal, 2019.
-6. **Jiahui Jin**, Junzhou Luo, Samamon Khemmarat, Lixin Gao. <br /><span style="color: blue">Querying Web-Scale Knowledge Graphs Through Effective Pruning of Search Space,</span> IEEE Transactions on Parallel and Distributed Systems (TPDS), 2017.
+6. **Jiahui Jin**, Junzhou Luo, Samamon Khemmarat, Lixin Gao. <br /><span style="color: blue">Querying Web-Scale Knowledge Graphs Through Effective Pruning of Search Space.</span> IEEE Transactions on Parallel and Distributed Systems (TPDS), 2017.
 7. Junzhou Luo, **Jiahui Jin**, Feng Shan. <br /><span style="color: blue">Standardization of Low-Latency TCP with Explicit Congestion Notification: A Survey. </span> IEEE Internet Computing (IC), 2017.
 8. Fang Dong, Junzhou Luo, Jiahui Jin, Jiyuan Shi, Ye Yang, Jun Shen. <br /><span style="color: blue">Accelerating skycube computation with partial and parallel processing for service selection. </span>IEEE Transactions on Services Computing (TSC), 2017.
