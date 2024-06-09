@@ -10,12 +10,12 @@ locale                   : "zh-cn"
 title                    : "金嘉晖的主页 / Jiahui's Website"
 title_separator          : "-"
 name                     : &name "Jiahui Jin"
-url                      : https://xiangxiang-rtx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jujuhoo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-repository               : "xiangxiang-rtx/xiangxiang-rtx.github.io"
+repository               : "jujuhoo/jujuhoo.github.io"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
