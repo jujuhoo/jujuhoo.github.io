@@ -26,5 +26,6 @@ author_profile: true
 
 <span style="color: blue">服务工作方面：</span>
 
-1. 中国计算机学会物联网专委会执行委员
-2. 江苏省计算机学会云计算专委会委员
+1. KDD 2025 Feb. Outstanding Reviewer
+2. 中国计算机学会物联网专委会执行委员
+3. 江苏省计算机学会云计算专委会委员
