@@ -17,9 +17,16 @@ redirect_from:
 研究兴趣
 ======
 
-- 大数据：图计算、图机器学习、大模型与RAG
+- 大数据：图计算、图机器学习、大模型与RAG、智能体
 - 物联网：群智感知、城市知识图谱、时空预测
 - 智能应用：兴趣点挖掘、推荐系统、交通仿真与决策
+
+更多信息
+======
+[发表论文](https://jujuhoo.github.io/publications/)
+[科研项目](https://jujuhoo.github.io/fundings/)
+[指导学生](https://jujuhoo.github.io/students/)
+[获奖信息](https://jujuhoo.github.io/awards/)
 
 联系方式
 =====
