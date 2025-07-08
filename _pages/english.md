@@ -13,9 +13,9 @@ I am looking for highly motivated and self-driven master students, who are inter
 
 ## RESEARCH INTERESTS
 
-- **Big Data**. Big Graphs (include graph learning, mining and computing), LLM&RAG, Agents 
+- **Big Graphs**. Graph learning, mining and computing 
 - **Smart IoT**. Urban Computing, Spatiotemporal Data
-- **Knowledge Graph**. Querying, Subgraph Matching
+- **Knowledge Graph**. LLM, RAG, Agents, Tabular Data
 
 ## PUBLICATION
 
