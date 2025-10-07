@@ -43,6 +43,7 @@ Conference Paper
 
 Journal Paper
 ------
+1. **Jiahui Jin**, Yi Hong, Guandong Xu, Jinghui Zhang, Jun Tang, Hancheng Wang. <br /><span style="color: blue">An Event-centric Framework for Predicting Crime Hotspots with Flexible Time Intervals.</span>. IEEE Transactions on on Knowledge and Data Engineering (TKDE), 2025. 
 1. Jingyi Qiu, Aibo Song, **Jiahui Jin**, Jiaoyan Chen, Xinyu Zhang, Xiaolin Fang, Tianbo Zhang. <br /><span style="color: blue">Matching Tabular Data to Knowledge Graph with Effective Core Column Set Discovery.</span>. ACM Transactions on the Web, 2024.
 2. **Jiahui Jin,** Zhendong Guo, Wenchao Bai, Biwei Wu, Xiang Liu, Weiwei Wu. <br /><span style="color: blue">Congestion-aware Stackelberg pricing game in urban Internet-of-Things networks: A case study</span>. Computer Networks, 2024.
 3. **Jiahui Jin,** Yifan Song, Dong Kan, Binjie Zhang, Yan Lyu, Jinghui Zhang, Hongru Lu. <br /><span style="color: blue">Learning context-aware region similarity with effective spatial normalization over Point-of-Interest data.</span> Information Processing & Management, 2024.
