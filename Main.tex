@@ -1,0 +1,23 @@
+\documentclass{ctexart}        % 中文没问题
+\usepackage{booktabs}          % 更漂亮的横线
+\usepackage{longtable}         % 允许表格跨页
+\usepackage{markdown}
+
+\markdownSetup{
+  pipeTables = true,           % GitHub 风格管道表
+  tableCaptions = true,        % 自动给表格加 \caption
+  tightLists = true,
+  fencedCode = true,
+  html = true,                 % 如果你还想混 HTML
+  hybrid = true
+}
+\begin{document}
+
+\begin{markdown}
+%\markdownInput{_pages/about.md}
+\markdownInput{_pages/publications.md}
+\markdownInput{_pages/english.md}
+\markdownInput{_pages/students.md}
+\end{markdown}
+
+\end{document}
