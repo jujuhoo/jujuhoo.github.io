@@ -7,7 +7,7 @@ author_profile: true
 
 
 <span style="color: blue">人才培养方面：</span>
-
+1. 2025年获挑战杯“揭榜挂帅”特等奖 指导教师
 1. 2024年获挑战杯“揭榜挂帅”一等奖 指导教师
 2. 2022年获高等教育（本科）国家级教学成果奖二等奖（5/15）
 3. 2021年获江苏省教学成果奖（高等教育类）一等奖（5/12）
@@ -20,9 +20,10 @@ author_profile: true
 <span style="color: blue">科学研究方面：</span>
 
 1. 2016年ACM中国南京分会优秀博士论文奖
-2. 2020年获东南大学至善青年学者A层次资助
-3. 2022年获IEEE计算机支持的协同设计国际会议（CSCWD 22）最佳论文奖
-4. 2014年获IEEE并行与分布式系统国际会议（ICPADS 14）最佳论文提名奖
+1. 2020年获东南大学至善青年学者A层次资助
+1. 2026年获ACM国际多媒体会议 （ACM MM 25）Outstanding Paper in Engagement Theme 
+1. 2022年获IEEE计算机支持的协同设计国际会议（CSCWD 22）最佳论文奖
+1. 2014年获IEEE并行与分布式系统国际会议（ICPADS 14）最佳论文提名奖
 
 <span style="color: blue">服务工作方面：</span>
 
