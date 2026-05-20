@@ -7,6 +7,13 @@ author_profile: true
 
 会议论文
 ------
+1. <span style="color: red"> (KDD 26, CCF-A)</span> <span style="color: blue">Pricing Online LLM Services with Data-Calibrated Stackelberg Routing Game</span> <br />  Xigang Sun, Haoyu Chen, **Jiahui Jin***, Xiangguo Sun. in Proceedings of The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining
+ (KDD), 2026. （通讯作者）
+
+1. <span style="color: red"> (IJCAI-ECAI 26, CCF-B)</span> <span style="color: blue">CasUGC: Aligning User-Generated Comment Evolution with Cascade Dynamics for Popularity Prediction</span> <br />  Yifan Meng, Xigang Sun, Anran Zhang, Jiaqi Jiang, **Jiahui Jin***. in Proceedings of 35th International Joint Conference on Artificial Intelligence - 29th European Conference on Artificial Intelligence
+ (IJCAI-ECAI), 2026. （通讯作者）
+
+
 1. <span style="color: red"> (AAAI 26, CCF-A)</span> <span style="color: blue">Pricing Online LLM Services with Data-Calibrated Stackelberg Routing Game</span> <br />  Zhendong Guo, Wenchao Bai, **Jiahui Jin***. in Proceedings of The Fortieth AAAI Conference on Artificial Intelligence
  (AAAI), 2026. <span style="color: red">(Oral)</span>（通讯作者） （[PDF](https://docs.qq.com/pdf/DVE12RmhVcVJza2tL)）
 1. <span style="color: red"> (KDD 25, CCF-A)</span> <span style="color: blue">Urban Region Pre-training and Prompting: A Graph-based Approach</span> <br />  **Jiahui Jin***, Yifan Song, Dong Kan, Haojia Zhu, Xiangguo Sun, Zhicheng Li, Xigang Sun, Jinghui Zhang. in Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2025. （[PDF](https://docs.qq.com/pdf/DVHh4T1hsbnNNSVhW)） 
