@@ -10,7 +10,7 @@ author_profile: true
 1. <span style="color: red"> (KDD 26, CCF-A)</span> <span style="color: blue">Eliciting Frequency-Conditioned Spatial Dynamics for Long-Term Spatio-Temporal Forecasting</span> <br />  Xigang Sun, Haoyu Chen, **Jiahui Jin***, Xiangguo Sun. in Proceedings of The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining
  (KDD), 2026. （通讯作者）
 
-1. <span style="color: red"> (IJCAI-ECAI 26, CCF-B)</span> <span style="color: blue">CasUGC: Aligning User-Generated Comment Evolution with Cascade Dynamics for Popularity Prediction</span> <br />  Yifan Meng, Xigang Sun, Anran Zhang, Jiaqi Jiang, **Jiahui Jin***. in Proceedings of 35th International Joint Conference on Artificial Intelligence - 29th European Conference on Artificial Intelligence
+1. <span style="color: red"> (IJCAI 26, CCF-B)</span> <span style="color: blue">CasUGC: Aligning User-Generated Comment Evolution with Cascade Dynamics for Popularity Prediction</span> <br />  Yifan Meng, Xigang Sun, Anran Zhang, Jiaqi Jiang, **Jiahui Jin***. in Proceedings of 35th International Joint Conference on Artificial Intelligence - 29th European Conference on Artificial Intelligence
  (IJCAI-ECAI), 2026. （通讯作者）
 
 
