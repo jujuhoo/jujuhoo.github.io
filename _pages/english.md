@@ -21,6 +21,12 @@ I am looking for highly motivated and self-driven master students, who are inter
 
 Conference Paper
 ------
+1. <span style="color: red"> (KDD 26, CCF-A)</span> <span style="color: blue">Eliciting Frequency-Conditioned Spatial Dynamics for Long-Term Spatio-Temporal Forecasting</span> <br />  Xigang Sun, Haoyu Chen, **Jiahui Jin***, Xiangguo Sun. in Proceedings of The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining
+ (KDD), 2026.
+
+1. <span style="color: red"> (IJCAI 26, CCF-B)</span> <span style="color: blue">CasUGC: Aligning User-Generated Comment Evolution with Cascade Dynamics for Popularity Prediction</span> <br />  Yifan Meng, Xigang Sun, Anran Zhang, Jiaqi Jiang, **Jiahui Jin***. in Proceedings of 35th International Joint Conference on Artificial Intelligence - 29th European Conference on Artificial Intelligence
+ (IJCAI-ECAI), 2026. 
+
 1. <span style="color: red"> (AAAI 26, CCF-A)</span> <span style="color: blue">Pricing Online LLM Services with Data-Calibrated Stackelberg Routing Game</span> <br />  Zhendong Guo, Wenchao Bai, **Jiahui Jin***. in Proceedings of The Fortieth AAAI Conference on Artificial Intelligence
  (AAAI), 2026. 
 1. <span style="color: red"> (MM 25, CCF-A)</span> <span style="color: blue">IM-POI: Bridging ID and Multi-modal Representations for Next POI Recommendation</span> <br />  Siyuan Huang, **Jiahui Jin***, Xin Lin, Xigang Sun, Yukun Ban. in Proceedings of the 33rd ACM International Conference on Multimedia, 2025. <span style="color: red">(Outstanding Paper in Engagement Theme)</span>
