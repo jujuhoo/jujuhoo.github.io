@@ -31,7 +31,7 @@ redirect_from:
 - 图计算增量与并行算法；
 - 向量数据库系统。
 
-<span style="color: blue">欢迎有意向该方向的同学联系我，也可直接将简历、本科成绩单和排名证明、英语水平证明及获奖和成果证明等材料发送至报名咨询邮箱：zhuangxipan@sics.ac.cn </span>
+<span style="color: blue">欢迎有意向的同学联系我，也可直接将简历、本科成绩单和排名证明、英语水平证明及获奖和成果证明等材料发送至报名咨询邮箱：zhuangxipan@sics.ac.cn </span>
 
 
 更多信息
