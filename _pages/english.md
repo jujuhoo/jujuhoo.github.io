@@ -7,15 +7,15 @@ author_profile: true
 
 ## BIOGRAPHY
 
-Dr. Jiahui Jin is an associate professor in School of Computer Science and Engineering at Southeast University, China. He received the Ph.D. degree from Southeast University in 2015. During his Ph.D. study from Aug. 2012 to Aug. 2014, he had spent two years working in Multimedia Networking & Internet Lab (MNIL) at University of Massachusetts Amherst as a visiting Ph.D. student.
+Jiahui Jin is an Associate Professor and Associate Dean of the School of Computer Science and Engineering at Southeast University. He received his Ph.D. in Computer Application Technology from Southeast University in 2015 under the supervision of Prof. Junzhou Luo, and joined the faculty in April 2016. His research has appeared in leading venues including SIGMOD, KDD, and IEEE TKDE. He was a Best Paper Award candidate at ICPADS 2014 and received the ACM Nanjing Chapter Outstanding Doctoral Dissertation Award in 2016, the ACM MM 2025 Outstanding Paper Award, the BESC 2025 Best Student Paper Award, and the CSCWD 2022 Best Paper Award, among others. He is also a principal contributor to a Second-Class National Teaching Achievement Award (2022).
 
 I am looking for highly motivated and self-driven master students, who are interested in developing distributed systems for query processing, data mining, and machine learning.
 
 ## RESEARCH INTERESTS
 
-- **Big Graphs**. Graph learning, mining and computing 
-- **Smart IoT**. Urban Computing, Spatiotemporal Data
-- **Knowledge Graph**. LLM, RAG, Agents, Tabular Data
+- **Big Data**: Graph Computing/Learning, Data Quality, LLMs & RAG, AI Agents
+- **Internet of Things**: Crowdsensing, Urban Knowledge Graphs, Spatio-Temporal Prediction
+- **Intelligent Applications**: Point-of-Interest Mining, Recommender Systems
 
 ## PUBLICATION
 
