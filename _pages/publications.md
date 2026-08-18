@@ -7,7 +7,7 @@ author_profile: true
 
 会议论文
 ------
-1. <span style="color: red"> (RecSys 26, CCF-B)</span> <span style="color: blue">Give the Long-tail More SPACE: Promoting Provider Fairness in Next POI Recommendation</span> <br />  Anran Zhang, Jiaqi Jiang, **Jiahui Jin**, Yuhan Zhao. in Proceedings of The 20th ACM Conference on Recommender Systems
+1. <span style="color: red"> (RecSys 26, CCF-B)</span> <span style="color: blue">Give the Long-tail More SPACE: Promoting Provider Fairness in Next POI Recommendation</span> <br />  Anran Zhang, Jiaqi Jiang, **Jiahui Jin***, Yuhan Zhao. in Proceedings of The 20th ACM Conference on Recommender Systems
  (RecSys), 2026. （通讯作者）
 
 1. <span style="color: red"> (KDD 26, CCF-A)</span> <span style="color: blue">Eliciting Frequency-Conditioned Spatial Dynamics for Long-Term Spatio-Temporal Forecasting</span> <br />  Xigang Sun, Haoyu Chen, **Jiahui Jin***, Xiangguo Sun. in Proceedings of The 32nd SIGKDD Conference on Knowledge Discovery and Data Mining
