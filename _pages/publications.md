@@ -7,6 +7,10 @@ author_profile: true
 
 会议论文
 ------
+1. <span style="color: red"> (EMNLP 26, CCF-B)</span> <span style="color: blue">Benchmarking Aggregation Queries over Unstructured Text</span> <br />  Haojia Zhu, **Jiahui Jin**, Haoyu Li, Qinyuan Xu, Yuxi Liu, Zihan Zhou, Hanchen Qiu, Jiaoyan Chen, Jinghui Zhang. in Proceedings of The 2026 Conference on Empirical Methods in Natural Language Processing
+ (EMNLP), 2026. （通讯作者）
+
+
 1. <span style="color: red"> (RecSys 26, CCF-B)</span> <span style="color: blue">Give the Long-tail More SPACE: Promoting Provider Fairness in Next POI Recommendation</span> <br />  Anran Zhang, Jiaqi Jiang, **Jiahui Jin***, Yuhan Zhao. in Proceedings of The 20th ACM Conference on Recommender Systems
  (RecSys), 2026. （通讯作者）
 
